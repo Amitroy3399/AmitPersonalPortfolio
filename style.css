@@ -1,0 +1,41 @@
+body{
+   margin: 0;
+    font-family: 'Heebo', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgb(253, 208, 6);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 93%;
+}
+.top-banner{
+    border: 1px solid coral;
+    background-image: url(abstract-background-with-geometric-shapes-vector-33185500.jpg);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(243, 71, 8);
+    
+    padding: 1px 8px;
+    border-radius: 5px;
+    color: cornsilk;
+    font-weight:700;
+}
+.SSS{
+    color: darkblue;
+}
+
